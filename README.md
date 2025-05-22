@@ -1,2 +1,3 @@
 # testing-code
-this is the testing repository
+This is the testing repository.
+version @2
