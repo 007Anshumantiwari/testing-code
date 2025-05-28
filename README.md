@@ -1,5 +1,5 @@
 # testing-code
-This is the testing repository.
-version @2
-version4 
-gid 
+demo-descripion
+version 1
+versioning
+git.repo 
